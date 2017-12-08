@@ -4,7 +4,7 @@
 Welcome to Cliqy ("Cliqy," "we," "us" or "our"). Cliqy provides a quick and fun way for you to gather feedback from your closest friends. Just snap a photo, choose a layout, add comments (if you like), and share!
 
 Our Privacy Policy explains how we collect, use, share and protect information in relation to our mobile services and your choices about the collection and use of your information.
-By using our Service you understand and agree that we are providing a platform for you to post content, including photos, comments and other materials ("User Content"), to the Service and to share User Content publicly. This means that other Users may search for, see, use, or share any of your User Content that you make publicly available through the Service, consistent with the terms and conditions of this Privacy Policy and our Terms of Use (which can be found at [Terms of Service]([http://www.google.com/policy/tos).
+By using our Service you understand and agree that we are providing a platform for you to post content, including photos, comments and other materials ("User Content"), to the Service and to share User Content publicly. This means that other Users may search for, see, use, or share any of your User Content that you make publicly available through the Service, consistent with the terms and conditions of this Privacy Policy and our Terms of Use (which can be found at [Cliqy’s Privacy Policy](https://github.com/Cliqy/policy/blob/master/tos.md)).
 Our Policy applies to all visitors, users, and others who access the Service ("Users").
 
 This privacy statement ("Privacy Policy") covers all applications owned and operated by Cliqy and all associated services, collectively referred to as "the Service".

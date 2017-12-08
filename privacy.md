@@ -63,7 +63,7 @@ Many of your activities on the Service may allow you to post Personal Data or to
 
 We will show the information you provide, including any Personal Data it may contain, to others viewing the site, in accordance with the privacy options you've selected.
 
-Some of the information you provide is categorised as Structured Data, which is defined more fully in our [Terms of Service]([http://www.google.com/policy/tos).
+Some of the information you provide is categorised as Structured Data, which is defined more fully in our [Terms of Service](https://github.com/Cliqy/policy/blob/master/tos.md).
 
 We may also use any Personal Data you provide, in aggregate, to make decisions about how to change and adapt the service. From time to time, we may utilize information in aggregate form to inform us in making decisions. We will not utilize individual information, only aggregate information.
 

@@ -28,7 +28,7 @@ From time to time, we may utilize Non-Personal Data in aggregate form (for insta
 
 ### Finding your friends on Cliqy:
 
-* If you choose, you can use our search features to locate other people with Cliqy accounts either through your contacts listor through a search of names and usernames on Cliqy
+* If you choose, you can use our search features to locate other people with Cliqy accounts either through your contacts list or through a search of names and usernames on Cliqy
 * If you choose to find your friends through your device's contacts list, then Cliqy will access your contacts list to determine whether or not someone associated with your contact is using Cliqy
 * If you choose to find your friends through a search of names or usernames on Cliqy then simply type a name to search and we will perform a search on our Service
 * Note about "Create a Clique" feature: If you choose to invite someone to the Service through our "Create a Clique" feature, you may select a person directly from the contacts list on your device and send a text or email from your personal account.

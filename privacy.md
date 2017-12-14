@@ -17,7 +17,7 @@ Like most apps, we collect Non-Personal Data such as the date and time of each v
 
 We collect this to understand how our visitors and members use our service, and use it to make decisions about how to change and adapt the service.
 
-From time to time, we may utilize Non-Personal Data in aggregate form (for instance, by publishing trends in site usage) to explain our reasoning in making decisions. We will not release individual information, only aggregate information.
+From time to time, we may utilize Non-Personal Data in aggregate form (for instance, by computing trends in Service usage) to provide insight for us to make decisions. We will not utilize or release individual information, only aggregate information.
 
 ### Information you provide us directly:
 

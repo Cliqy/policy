@@ -49,7 +49,7 @@ From time to time, we may utilize Non-Personal Data in aggregate form (for insta
 
 ### Email address:
 
-* In order to register for the service, you must authenticate with Facebook. We will use Facebook authentication and enforce unique email addresses to ensure account security for our users. 
+* In order to register for the service, you must authenticate with Facebook. We will use Facebook authentication and enforce unique email addresses to ensure account security for our users. You may choose to opt out of providing your email when you authenticate with Facebook.
 
 * We will never sell or provide your email address to any third party for marketing purposes, or for any other reason except as set out below.
 
